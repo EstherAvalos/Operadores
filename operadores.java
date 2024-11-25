@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class operadores {
 
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada= new Scanner(System.in);
         float num1, num2, suma, resta, mult, div, resto;
         System.out.print("Digite dos números: ");
         num1=entrada.nextFloat();
